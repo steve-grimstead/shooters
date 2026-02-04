@@ -27,7 +27,7 @@ body {
 .main-body {
 	float: left;
 	width: 100%;
-	background: url(../images/top_down_pool_table.png) no-repeat top center;
+	background: url(../images/page-bg-pool-table.png) no-repeat top center;
 	background-size: 100% auto;
 	background-attachment: fixed;
 }
@@ -190,7 +190,7 @@ body {
 .banner-main-home {
 	opactiy: .5;
 	background-color: white;
-	background-image: url(../images/dark-blue-bg_footer.gif);
+	background-image: url(../images/content.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom right;
@@ -962,6 +962,7 @@ textarea.form-control {	height:135px; }
 	.gallery_title h3 { font-size: 40px; }
 	.gallery_title h4 { font-size: 18px; }
 }
+
 
 
 
