@@ -145,7 +145,7 @@ body {
 .main-menu-link:focus {	color: #fff; }
 
 .home {	
-	background-color: rgba(25, 25, 75, 0.75);
+	background-color: rgba(0, 0, 0, 1);
 	background-image: url(../images/shooters_logo_01_transparent.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -958,6 +958,7 @@ textarea.form-control {	height:135px; }
 	.gallery_title h3 { font-size: 40px; }
 	.gallery_title h4 { font-size: 18px; }
 }
+
 
 
 
