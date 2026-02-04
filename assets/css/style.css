@@ -27,7 +27,7 @@ body {
 .main-body {
 	float: left;
 	width: 100%;
-	background: url(../images/page-bg.jpg) no-repeat top center;
+	background: url(../images/top_down_pool_table.png) no-repeat top center;
 	background-size: 100% auto;
 	background-attachment: fixed;
 }
@@ -961,6 +961,7 @@ textarea.form-control {	height:135px; }
 	.gallery_title h3 { font-size: 40px; }
 	.gallery_title h4 { font-size: 18px; }
 }
+
 
 
 
